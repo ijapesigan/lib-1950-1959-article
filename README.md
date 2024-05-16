@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1950-1959-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Cochran-1952" class="csl-entry">
 
